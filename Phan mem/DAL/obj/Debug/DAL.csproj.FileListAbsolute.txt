@@ -1,0 +1,42 @@
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\bin\Debug\DAL.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\bin\Debug\DAL.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\bin\Debug\CommonObject.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\bin\Debug\CommonObject.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\obj\Debug\DAL.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\DAL\obj\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\obj\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\DAL\obj\Debug\DAL.pdb
+E:\QLNS\Phan mem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\QLNS\Phan mem\DAL\obj\Debug\DAL.dll
+E:\QLNS\Phan mem\DAL\obj\Debug\DAL.pdb
+E:\QLNS\Phan mem\DAL\bin\Debug\DAL.dll
+E:\QLNS\Phan mem\DAL\bin\Debug\DAL.pdb
+E:\QLNS\Phan mem\DAL\bin\Debug\CommonObject.dll
+E:\QLNS\Phan mem\DAL\bin\Debug\CommonObject.pdb

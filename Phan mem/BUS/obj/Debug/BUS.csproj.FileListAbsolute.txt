@@ -1,0 +1,54 @@
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\BUS.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\BUS.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\CommonObject.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\DAL.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\CommonObject.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\bin\Debug\DAL.pdb
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\obj\Debug\BUS.dll
+E:\Projects\VisualStudioProjects\Projects\ThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\ThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\Btnop\BaitapLonC#\ThuVien\BUS\obj\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\BUS.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\CommonObject.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\DAL.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\CommonObject.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\bin\Debug\DAL.pdb
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\obj\Debug\BUS.dll
+C:\Users\Manh Beo\Desktop\QLNS\Phan mem\BUS\obj\Debug\BUS.pdb
+E:\QLNS\Phan mem\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\QLNS\Phan mem\BUS\obj\Debug\BUS.dll
+E:\QLNS\Phan mem\BUS\obj\Debug\BUS.pdb
+E:\QLNS\Phan mem\BUS\bin\Debug\BUS.dll
+E:\QLNS\Phan mem\BUS\bin\Debug\BUS.pdb
+E:\QLNS\Phan mem\BUS\bin\Debug\CommonObject.dll
+E:\QLNS\Phan mem\BUS\bin\Debug\DAL.dll
+E:\QLNS\Phan mem\BUS\bin\Debug\CommonObject.pdb
+E:\QLNS\Phan mem\BUS\bin\Debug\DAL.pdb
